@@ -3,8 +3,10 @@
 # capitalize words like 'a', 'and', 'of', 'over' or 'the'.
 
 def titleize(title)
-  
+  #test
 end
+
+#test
 
 class String
   # Define a method `String#symmetric_substrings` that returns an array of 
